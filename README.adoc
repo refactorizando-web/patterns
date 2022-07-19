@@ -1,0 +1,23 @@
+= Patterns =
+
+== Introduction
+
+This project show different patterns to use with Java.
+We have 3 main groups of patterns:
+
+* Creational
+* Structural
+* Behavioral
+
+ The idea of using the design patterns you can make your code more flexible,
+reusable and maintainable.
+A good use of design pattern can accelerate the development process.
+
+If you want more information about design, implementation etc, you can take a
+look into:
+
+https://refactorizando.com/patrones-diseno-java/
+
+== How does it run this examples?
+
+Every package contains a Java Main to run the example.
