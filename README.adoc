@@ -7,7 +7,7 @@ We have 3 main groups of patterns:
 
 * Creational:
 ** Builder Pattern: https://refactorizando.com/patron-builder-java/
-** Prototype Pattern:
+** Prototype Pattern: https://refactorizando.com/patron-diseno-prototype-java/
 * Structural
 * Behavioral
 ** Status Pattern: https://refactorizando.com/patron-state-patron-java/
