@@ -9,6 +9,7 @@ We have 3 main groups of patterns:
 ** Builder Pattern: https://refactorizando.com/patron-builder-java/
 ** Prototype Pattern: https://refactorizando.com/patron-diseno-prototype-java/
 * Structural
+** Adapter Pattern: https://refactorizando.com/patron-diseno-adapter-java
 * Behavioral
 ** Status Pattern: https://refactorizando.com/patron-state-patron-java/
 
